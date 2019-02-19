@@ -1,0 +1,10 @@
+C:\Users\tiana\source\repos\SendSMS\SendSMS\bin\Debug\SendSMS.exe.config
+C:\Users\tiana\source\repos\SendSMS\SendSMS\bin\Debug\SendSMS.exe
+C:\Users\tiana\source\repos\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.csprojAssemblyReference.cache
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.Form1.resources
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.Properties.Resources.resources
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.GenerateResource.cache
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.CoreCompileInputs.cache
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.exe
+C:\Users\tiana\source\repos\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
